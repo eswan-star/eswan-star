@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eswan-star
-- 👀 I’m interested in agricultural monitoring projects
+- 👀 I’m interested in agricultural monitoring projects, biophotovolatics, and growing plants in space
 - 🌱 I’m currently learning HPC and C++
 - 💞️ I’m looking to collaborate on all things ag, water resources, and famine monitoring
 - 📫 How to reach me - via Github

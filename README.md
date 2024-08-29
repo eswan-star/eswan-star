@@ -13,7 +13,8 @@ I'm **@eswan-star** The majority of what I have on here are private repos... �
 💀 In 5 years, 30% of the world's energy budget will be going to computation. ...yikes.<br>
 
 ## Collaboration
-💞 **Looking to Collaborate On**: Ag tech, water resources, and famine monitoring. If you’re into groundbreaking ideas that merge the natural world and technology, let’s hang.<br>
+💞 **Looking to Collaborate On**: Ag tech, water resources, and famine monitoring. <br>
+If you’re into groundbreaking ideas that merge the natural world and technology, let’s hang.<br>
 📫 **Reach Me**: Right here on GitHub. <br>
 
 ## 🧠 Did You Know?

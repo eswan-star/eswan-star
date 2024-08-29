@@ -2,7 +2,7 @@
   
 ![yerp](https://github.com/eswan-star/pics/blob/main/fjisfjs%20.jpeg)
   
-# 🌟 Welcome to lil Github 🌟
+# 🌟 Welcome to the lil Github 🌟
 
 I'm **@eswan-star** The majority of what I have on here are private repos... 🤫
 

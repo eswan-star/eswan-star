@@ -7,17 +7,17 @@
 I'm **@eswan-star** The majority of what I have on here are private repos... 🤫
 
 ## About Me
-🌱 **Exploring**: Agricultural and irrigation monitoring projects, biophotovoltaics, and growing plants in space (astrobotany).
-🚀 **Learning**: HPC (High-Performance Computing) and C++ to push the boundaries of what's possible.
-💡 **Passionate About**: All things wonderful related to light, biogeochemical processes, and their potential for innovative technology.
-💀 In 5 years, 30% of the world's energy budget will be going to computation. ...yikes.
+🌱 **Exploring**: Agricultural and irrigation monitoring projects, biophotovoltaics, and growing plants in space (astrobotany).<br>
+🚀 **Learning**: HPC (High-Performance Computing) and C++ to push the boundaries of what's possible.<br>
+💡 **Passionate About**: All things wonderful related to light, biogeochemical processes, and their potential for innovative technology.<br>
+💀 In 5 years, 30% of the world's energy budget will be going to computation. ...yikes.<br>
 
 ## Collaboration
-💞 **Looking to Collaborate On**: Ag tech, water resources, and famine monitoring. If you’re into groundbreaking ideas that merge the natural world and technology, let’s hang.
-📫 **Reach Me**: Right here on GitHub. 
+💞 **Looking to Collaborate On**: Ag tech, water resources, and famine monitoring. If you’re into groundbreaking ideas that merge the natural world and technology, let’s hang.<br>
+📫 **Reach Me**: Right here on GitHub. <br>
 
 ## 🧠 Did You Know?
-I’m really into the unconventional—anything that involves using light and natural processes in new, technological ways. If it’s imaginative and pushes the envelope, I’m in.
+I’m really into the unconventional—anything that involves using light and natural processes in new, technological ways. If it’s imaginative and pushes the envelope, I’m in.<br>
 
 ---
 

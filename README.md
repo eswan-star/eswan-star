@@ -1,6 +1,6 @@
 <div align="center">
   
-![Biophotovoltaics](https://example.com/your-image.png)
+![yerp](https://github.com/eswan-star/pics/blob/main/fjisfjs%20.jpeg)
   
 # 🌟 Welcome to lil Github 🌟
 

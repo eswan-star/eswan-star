@@ -11,7 +11,7 @@
 💀 In 5 years, 30% of the world's energy budget will be going to computation. ...yikes.<br>
 
 ## Collaboration
-💞 **Looking to Collaborate On**: Nothing. Crow away. <br>
+**Looking to Collaborate On**: Nothing. Crow 🐦‍⬛ away. <br>
 📫 **Reach Me**: Right here on GitHub. <br>
 
 ## 🧠 Did You Know?

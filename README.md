@@ -16,7 +16,7 @@ If you’re into groundbreaking ideas that merge the natural world and technolog
 📫 **Reach Me**: Right here on GitHub. <br>
 
 ## 🧠 Did You Know?
-I’m really into the unconventional—anything that involves using light and natural processes in new, technological ways. If it’s imaginative and pushes the envelope, I’m in.<br>
+I’m really into the unconventional anything that has to deal with plants, light, and tech.<br>
 
 ---
 

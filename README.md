@@ -8,7 +8,7 @@
 🌱 **Exploring**: Agricultural and irrigation monitoring projects, biophotovoltaics, and growing plants in space (astrobotany).<br>
 🚀 **Learning**: HPC (High-Performance Computing) and C++ to push the boundaries of what's possible.<br>
 💡 **Passionate About**: All things wonderful related to light, biogeochemical processes, and their potential for innovative technology.<br>
-💀 In 5 years, 30% of the world's energy budget will be going to computation. ...yikes.<br>
+💀 In 5 years, how much of the world's energy budget will be going to computation? <br>
 
 ## Collaboration
 **Looking to Collaborate On**: Nothing right now. Crow 🐦‍⬛ away. <br>

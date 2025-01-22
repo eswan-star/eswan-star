@@ -11,7 +11,7 @@
 💀 In 5 years, how much of the world's energy budget will be going to computation? <br>
 
 ## Collaboration
-**Looking to Collaborate On**: Nothing right now. Crow 🐦‍⬛ away. <br>
+**Looking to Collaborate On**: Gimme job please. <br>
 📫 **Reach Me**: Right here on GitHub. <br>
 
 ## 🧠 Did You Know?
